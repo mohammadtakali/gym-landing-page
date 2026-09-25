@@ -21,37 +21,37 @@ This project recreates a premium fitness-brand website: full-screen hero section
 ## 📸 Preview
 
 **Hero Section**
-![Hero Section](assets/images/preview/preview-1.png)
+![Hero Section](assets/images/preview/preview1.png)
 
 **World Class Strength**
-![World Class Strength](assets/images/preview/preview-2.png)
+![World Class Strength](assets/images/preview/preview2.png)
 
 **Free Training Sign-Up**
-![Free Training Sign-Up](assets/images/preview/preview-3.png)
+![Free Training Sign-Up](assets/images/preview/preview3.png)
 
 **Service Highlights**
-![Service Highlights](assets/images/preview/preview-4.png)
+![Service Highlights](assets/images/preview/preview4.png)
 
 **Real World Results**
-![Real World Results](assets/images/preview/preview-5.png)
+![Real World Results](assets/images/preview/preview5.png)
 
 **High Performance Facilities**
-![High Performance Facilities](assets/images/preview/preview-6.png)
+![High Performance Facilities](assets/images/preview/preview6.png)
 
 **Quote of the Day**
-![Quote of the Day](assets/images/preview/preview-7.png)
+![Quote of the Day](assets/images/preview/preview7.png)
 
 **Meet Our Trainers**
-![Meet Our Trainers](assets/images/preview/preview-8.png)
+![Meet Our Trainers](assets/images/preview/preview8.png)
 
 **Performance News**
-![Performance News](assets/images/preview/preview-9.png)
+![Performance News](assets/images/preview/preview9.png)
 
 **Blog Articles**
-![Blog Articles](assets/images/preview/preview-10.png)
+![Blog Articles](assets/images/preview/preview10.png)
 
 **Footer**
-![Footer](assets/images/preview/preview-11.png)
+![Footer](assets/images/preview/preview11.png)
 
 ## ✨ Features
 

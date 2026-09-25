@@ -16,7 +16,7 @@ This project recreates a premium fitness-brand website: full-screen hero section
 
 ## 🔗 Demo
 
-[Live Demo](#) <!-- replace # with your GitHub Pages / Vercel / Netlify link -->
+[Live Demo](https://mohammadtakali.github.io/gym-landing-page/) <!-- replace # with your GitHub Pages / Vercel / Netlify link -->
 
 ## 📸 Preview
 
